@@ -62,7 +62,7 @@ The dataset contains the following columns:
 ## 📂 GitHub Repository  
 Feel free to clone, explore, and contribute:  
 ```bash  
-git clone <Your GitHub Repo Link>  
+git clone <[Your GitHub Repo Link](https://github.com/shriyanshmishra/Car-Price-Prediction)>  
 ```  
 
 ## 🏷️ Keywords  
